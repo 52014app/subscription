@@ -2,6 +2,7 @@
 #创建时间 201909025
 #订阅链接 https://u.nu/4upva
 #小草影视广告
+||p0vy.cn^$important
 ||td0o.cn^$important
 ||jsmov2.a.yximgs.com^$important
 ||static.yximgs.com^$important
@@ -83,15 +84,3 @@
 ||pl.cp31.ott.cibntv.net^$important
 ||pss.alicdn.com^$important
 #视频网站(||^$important)
-#youtube
-||youtube.com/api/stats/qoe?^$important
-||/log_event?^$important
-||youtube.com/api/stats/qoe?^$important
-||/googleads.$~script,domain=~github.com|~github.io^$important
-||/googleads.$~script,domain=~github.com|~github.ioyoutube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')^$important
-||#%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefin^$important
-||youtube.com##div#masthead-ad^$important
-||/log_event?^$important
-||youtube.com##.ytp-ad-progress-list^$important
-||youtube.com/api/stats/atr^$important
-||m.youtube.com//#^$important
