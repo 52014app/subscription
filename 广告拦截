@@ -4,13 +4,13 @@
 #小草影视广告 ||^$important
 ||zw.gnettechnology.cn/^$important
 ||kepler.51y5.net^$important
-||cfg-2.pddpic.com-/^$important
+||cfg-*.pddpic.com-/^$important
 ||xjp.wagbridge.alibabacorp.com.gds.alibabadns.com^$important
 ||xjp.wagbridge.alibabacorp.com^$important
 ||webapi.amap.com.gds.alibabadns.com^$important
 ||webapi.amap.com^$important
 ||mobile.kyw4y0s.com^$important
-||c2.gdt.qq.com/gdt_mclick.fcg/^$important
+||c*.gdt.qq.com/gdt_mclick.fcg/^$important
 ||log-api.pangolin-sdk-toutiao.com^$important
 ||www.chengzijianzhan.com^$important
 ||chengzijianzhan.com^$important
@@ -19,7 +19,7 @@
 ||qzs.gdtimg.com^$important
 ||tnc3-bjlgy.snssdk.com^$important
 ||brprt.stsdk.vivo.com.cn^$important
-||browserh5.vivo.com.cn^$important
+||browserh*.vivo.com.cn^$important
 ||i1.go2yd.com^$important
 ||gz.adsl.cn^$important
 ||gz.ejnjyc.cn^$important
@@ -32,12 +32,11 @@
 ||h5.sinaimg.cn^$important
 ||xj.gdt.qq.com^$important
 ||rtb.voiceads.cn^$important
-
 ||card.laidianbanlv.cn^$important
 ||api-access.pangolin-sdk-toutiao.com^$important
 ||sf6-amtos-cdn.bytesmanager.com^$important
 ||apps.bytesfield.com^$important
-||www.chengzijianzhan.com/^$important
+||www.chengzijianzhan.*/^$important
 ||chengzijianzhan.com/tetris/page/^$important
 ||ether-pack.pangolin-sdk-toutiao.com^$important
 ||www.chengzijianzhan.com/tetris/exp/orange/^$important
@@ -48,11 +47,11 @@
 ||hd01.quxiaomeng.xyz^$important
 ||05y0.cn^$important
 ||pask.schkly.cn^$important
-||xc91.xingyego.cn^$important
+||xc*.xingyego.cn^$important
 ||a0iq.cn^$important
 ||qdff.jiajiaplay.com^$important
 ||p2vy.cn^$important
-||p0vy.cn^$important
+||p*vy.cn^$important
 ||td0o.cn^$important
 ||jsmov2.a.yximgs.com^$important
 ||static.yximgs.com^$important
@@ -74,9 +73,9 @@
 ||rsdatas.oss-cn-shenzhen.aliyuncs.com.^$important
 ||ys181.xyz^$important
 ||16958e.cc^$important
-||ys165.xyz^$important
+||ys*.xyz^$important
 ||16955e.cc^$important
-||16958e.cc^$important
+||169**e.cc^$important
 ||picture169.oss-cn-guangzhou.aliyuncs.com^$important
 ||sdk.e.qq.com^$important
 ||m.twitch.tv^$important
@@ -85,7 +84,7 @@
 ||adsmind.ugdtimg.com^$important
 ||v2.gdt.qq.com^$important
 |||v.gdt.qq.com^$important
-|||ynv5.vip^$important'
+|||ynv*.vip^$important'
 ||sdkapi.netbear.cn^$important
 ||zaihejianzhi.oss-cn-zhangjiakou.aliyuncs.com^$important
 ||lbs.map.qq.com^$important
@@ -117,11 +116,11 @@
 ||sv.bdstatic.com^$important
 ||v3-be-pack.pglstatp-toutiao.com^$important
 ||sf3-be-pack.pglstatp-toutiao.com^$important
-||v2-mg04.kwaicdn.com^$important
+||v2-mg*4.kwaicdn.com^$important
 ||tobapplog.ctobsnssdk.com^$important
 ||16990a.cc^$important
 ||api.anythinktech.com^$important
-||c.sayhi.360.cn^$important
+||c.sayhi.*60.cn^$important
 ||sdfp.snssdk.com^$important
 ||bds.snssdk.com^$important
 ||y87s.xyz^$important
@@ -129,6 +128,8 @@
 ||yp.sgupgtrs.cn//ads_app_pic/.png^$important
 ||https://lanm.huliyinzi.com/1_0_0/ReqRewardAd^$important
 #优酷广告
+||ykugc.cp*1.ott.cibntv.net.qn302.myalicdn.com^$important 
+||pl.cp**.ott.cibntv.net^$important
 ||m.youtube.com^$important
 ||ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com^$important 
 ||pl.cp31.ott.cibntv.net^$important
